@@ -17,5 +17,10 @@ CHANGELOG
 * [`acpl/mobile-tab`](https://github.com/android-com-pl/mobile-tab)
 * [`flarum/akismet`](https://github.com/flarum/akismet)
 * [`flarum/approval`](https://github.com/flarum/approval)
+* [`flarum/bbcode`](https://github.com/flarum/bbcode)
+* [`flarum/emoji`](https://github.com/flarum/emoji)
+* [`flarum/flags`](https://github.com/flarum/flags)
+* [`flarum/likes`](https://github.com/flarum/likes)
+* [`flarum/lock`](https://github.com/flarum/lock)
 
 
