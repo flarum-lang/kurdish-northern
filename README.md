@@ -56,6 +56,11 @@ php flarum cache:clear
 | --- | --- |
 | [`flarum/akismet`](https://github.com/flarum/akismet) | [![Translation status](https://weblate.rob006.net/widgets/flarum/kmr/flarum-akismet/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-akismet/kmr/) |
 | [`flarum/approval`](https://github.com/flarum/approval) | [![Translation status](https://weblate.rob006.net/widgets/flarum/kmr/flarum-approval/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-approval/kmr/) |
+| [`flarum/bbcode`](https://github.com/flarum/bbcode) | [![Translation status](https://weblate.rob006.net/widgets/flarum/kmr/flarum-bbcode/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-bbcode/kmr/) |
+| [`flarum/emoji`](https://github.com/flarum/emoji) | [![Translation status](https://weblate.rob006.net/widgets/flarum/kmr/flarum-emoji/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-emoji/kmr/) |
+| [`flarum/flags`](https://github.com/flarum/flags) | [![Translation status](https://weblate.rob006.net/widgets/flarum/kmr/flarum-flags/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-flags/kmr/) |
+| [`flarum/likes`](https://github.com/flarum/likes) | [![Translation status](https://weblate.rob006.net/widgets/flarum/kmr/flarum-likes/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-likes/kmr/) |
+| [`flarum/lock`](https://github.com/flarum/lock) | [![Translation status](https://weblate.rob006.net/widgets/flarum/kmr/flarum-lock/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-lock/kmr/) |
 
 <!-- flarum-extensions-list-stop -->
 
