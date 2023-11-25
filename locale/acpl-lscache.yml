@@ -10,6 +10,7 @@ acpl-lscache:
     cache_exclude_label: 'Rêyên ji Cachingê derxin'
     clearing_cache_listener_label: 'Dema ku Flarum Cache tê Paqijkirin LSCache paqij bike'
     drop_qs_help: "Vê taybetmendiyê bikar bînin da ku rêzikên lêgerînê yên taybetî, wekî <code>fbclid</code> an <code>utm*</code>, dema ku kaş dikin, bavêjin. Ev rê li ber cachkirina zêde ya rûpelên bi rêzikên lêpirsînê yên \"jonk\" digire, mîna kodên UTM, ku ji bo şopandinê têne bikar anîn lê bandorê li naveroka rûpelê nakin. Vê yekê LSWS v5.2.3 an nûtir hewce dike. Lîsteya rêzikên lêpirsînê yên ku werin avêtin, her rêzek yek. <a>Li ser daxistina rêzikên pirsnameyê bêtir fêr bibin</a>.<br></br>\n⚠️ Ev mîheng dê pelê .htaccess biguherîne.\n"
+    drop_qs_label: 'Rêzên pirsyarî berdin'
     public_cache_ttl_help: 'Diyar bikin ka divê di çirkeyan de, rûpelên giştî çiqas werin cache kirin. Nirxa xwerû 604800 çirke (hefteyek) e.'
     public_cache_ttl_label: 'TTL Cacheya Giştî ya Bingehîn'
     purge_all: 'Hemû LSCache paqij bikin'
