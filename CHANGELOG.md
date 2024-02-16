@@ -26,5 +26,7 @@ CHANGELOG
 * [`flarum/mentions`](https://github.com/flarum/mentions)
 * [`flarum/nicknames`](https://github.com/flarum/nicknames)
 * [`flarum/pusher`](https://github.com/flarum/pusher)
+* [`flarum/statistics`](https://github.com/flarum/statistics)
+* [`flarum/sticky`](https://github.com/flarum/sticky)
 
 
