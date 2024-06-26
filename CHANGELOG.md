@@ -28,5 +28,16 @@ CHANGELOG
 * [`flarum/pusher`](https://github.com/flarum/pusher)
 * [`flarum/statistics`](https://github.com/flarum/statistics)
 * [`flarum/sticky`](https://github.com/flarum/sticky)
+* [`malago/flarum-ads`](https://github.com/malago86/flarum-ads)
+* [`malago/flarum-ext-fancybox`](https://github.com/malago86/flarum-ext-fancybox)
+* [`marchccc/flarum-ext-mentions-group-users`](https://github.com/Marchccc/flarum-ext-mentions-group-users)
+* [`matteociaroni/flarum-old-content`](https://github.com/matteociaroni/flarum-old-content)
+* [`matteociaroni/flarum-public-suspensions`](https://github.com/matteociaroni/flarum-public-suspensions)
+* [`matteocontrini/flarum-imgur-upload`](https://github.com/matteocontrini/flarum-imgur-upload)
+* [`michaelbelgium/flarum-discussion-views`](https://github.com/MichaelBelgium/flarum-discussion-views)
+* [`michaelbelgium/mybb-to-flarum`](https://github.com/MichaelBelgium/mybb_to_flarum)
+* [`michaelbelgium/flarum-profile-views`](https://github.com/MichaelBelgium/flarum-profile-views)
+* [`migratetoflarum/canonical`](https://github.com/migratetoflarum/canonical)
+* [`migratetoflarum/fake-data`](https://github.com/migratetoflarum/fake-data)
 
 
