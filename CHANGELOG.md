@@ -27,6 +27,7 @@ CHANGELOG
 * [`flarum/pusher`](https://github.com/flarum/pusher)
 * [`flarum/statistics`](https://github.com/flarum/statistics)
 * [`flarum/sticky`](https://github.com/flarum/sticky)
+* [`michaelbelgium/mybb-to-flarum`](https://github.com/MichaelBelgium/mybb_to_flarum)
 * [`migratetoflarum/fake-data`](https://github.com/migratetoflarum/fake-data)
 
 
