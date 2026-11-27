@@ -1,27 +1,24 @@
 {
 	"name": "flarum-lang/kurdish-northern",
+	"description": "Kurdish (Northern) Language Pack for Flarum",
 	"type": "flarum-extension",
-	"description": "Kurdish (Northern) language pack for Flarum.",
-	"homepage": "https://github.com/flarum-lang/kurdish-northern",
 	"keywords": [
-		"locale",
-		"flarum",
-		"flarum-locale",
-		"kmr-locale",
-		"kurdish-northern-locale",
-		"kurdish-northern"
+		"flarum-locale"
 	],
+	"homepage": "https://github.com/flarum-lang/kurdish-northern",
 	"license": "MIT",
 	"support": {
 		"issues": "https://github.com/flarum-lang/kurdish-northern/issues",
+		"forum": "https://discuss.flarum.org/d/40197",
 		"source": "https://github.com/flarum-lang/kurdish-northern"
 	},
 	"require": {
 		"flarum/core": "^1.6"
 	},
-	"minimum-stability": "dev",
-	"prefer-stable": true,
 	"extra": {
+		"branch-alias": {
+			"dev-master": "1.x-dev"
+		},
 		"flarum-extension": {
 			"title": "Kurdish (Northern)",
 			"category": "language",
@@ -34,12 +31,6 @@
 		"flarum-locale": {
 			"code": "kmr",
 			"title": "Kurdish (Northern)"
-		},
-		"extiverse": {
-			"discuss": ""
-		},
-		"branch-alias": {
-			"dev-master": "1.x-dev"
 		}
 	}
 }
